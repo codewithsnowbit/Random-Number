@@ -1,6 +1,6 @@
 {
   "name": "random-nos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NPM Package which generates Random Numbers",
   "main": "index.js",
   "scripts": {
